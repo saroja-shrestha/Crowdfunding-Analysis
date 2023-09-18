@@ -1,8 +1,5 @@
 # Crowdfunding_ETL
 
-Project Collaborators "The Cool Cat Coders": Taniya Talukdar, Matty Donovan, Saroja Shrestha, Veronica Mueller
-
-
 Data Sources: crowdfunding.xlsx & contacts.xlsx
 
 <ins>Crowdfunding Analysis</ins> 
