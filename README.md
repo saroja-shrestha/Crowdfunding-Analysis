@@ -15,7 +15,6 @@ In this project, I started by extracting data from 'crowdfunding.xlsx' and impor
 <ins>Campaign DataFrame</ins>
 
 In Figures 2 and 3, I visualized the data to gain a better understanding of its structure.
-*CRUD*
 
 To prepare the Campaign DataFrame, I followed the CRUD (Create, Read, Update, Delete) process. I renamed certain columns, converted 'goal' and 'pledged' columns to floats, and formatted the 'launch_date' and 'end_date' columns to datetime. Interestingly, the original date values had seconds as part of their unit, requiring me to account for this in my code to ensure accurate date parsing. I dropped unnecessary columns and exported the formatted data to a CSV file, as illustrated in Figure 4.
 
