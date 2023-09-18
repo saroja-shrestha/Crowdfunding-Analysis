@@ -35,7 +35,3 @@ Regarding the ER Diagram and SQL databases, I initiated by creating the SQL DB t
 ![Crowdfunding DBD](crowdfunding_db.png)
 
  
-~The Cool Cat Coders
-
-
-<img src="Images/cat_on_computer.jpg" alt="Cool Cat Coders" width="400" height="400">
